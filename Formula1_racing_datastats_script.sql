@@ -1,0 +1,1 @@
+SELECT * FROM f1_capstone1_schema.formula_racing_data_5years;
