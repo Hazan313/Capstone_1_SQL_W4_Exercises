@@ -13,7 +13,7 @@ CREATE TABLE Customer
 );
 
 -- Creates the Venue Table
-CREATE TABLE Venue 
+CREATE TABLE Venue f
 ( 	venue_id INT PRIMARY KEY AUTO_INCREMENT,
 	Venue_Name VARCHAR(45) NOT NULL,
 	Location VARCHAR(40) NOT NULL,
